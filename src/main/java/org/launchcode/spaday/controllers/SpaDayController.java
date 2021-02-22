@@ -82,6 +82,6 @@ public class SpaDayController {
             }
         }
 
-        return "menu";
+        return "/menu";
     }
 }
